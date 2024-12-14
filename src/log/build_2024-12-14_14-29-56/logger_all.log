@@ -1,0 +1,163 @@
+[0.079s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.079s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=20, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7735ba912da0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7735baa9c7c0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7735baa9c7c0>>)
+[0.232s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.232s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.232s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.232s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.232s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.232s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.232s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/hasi/pyserial_test/src'
+[0.232s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.233s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.246s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.246s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.246s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.246s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.246s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extensions ['ignore', 'ignore_ament_install']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extension 'ignore'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extension 'ignore_ament_install'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extensions ['colcon_pkg']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extension 'colcon_pkg'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extensions ['colcon_meta']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extension 'colcon_meta'
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extensions ['ros']
+[0.247s] Level 1:colcon.colcon_core.package_identification:_identify(pysender) by extension 'ros'
+[0.249s] DEBUG:colcon.colcon_core.package_identification:Package 'pysender' with type 'ros.ament_python' and name 'pysender'
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extensions ['ignore', 'ignore_ament_install']
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extension 'ignore'
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extension 'ignore_ament_install'
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extensions ['colcon_pkg']
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extension 'colcon_pkg'
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extensions ['colcon_meta']
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extension 'colcon_meta'
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extensions ['ros']
+[0.249s] Level 1:colcon.colcon_core.package_identification:_identify(rover_control_test) by extension 'ros'
+[0.250s] DEBUG:colcon.colcon_core.package_identification:Package 'rover_control_test' with type 'ros.ament_python' and name 'rover_control_test'
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.250s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.265s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.265s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.266s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 2 installed packages in /home/hasi/pyserial_test/install
+[0.267s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 387 installed packages in /opt/ros/humble
+[0.270s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'cmake_args' from command line to 'None'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'cmake_target' from command line to 'None'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'cmake_clean_cache' from command line to 'False'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'cmake_clean_first' from command line to 'False'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'cmake_force_configure' from command line to 'False'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'ament_cmake_args' from command line to 'None'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'catkin_cmake_args' from command line to 'None'
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'pysender' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.304s] DEBUG:colcon.colcon_core.verb:Building package 'pysender' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/hasi/pyserial_test/src/build/pysender', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/hasi/pyserial_test/src/install/pysender', 'merge_install': False, 'path': '/home/hasi/pyserial_test/src/pysender', 'symlink_install': False, 'test_result_base': None}
+[0.304s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'cmake_args' from command line to 'None'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'cmake_target' from command line to 'None'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'cmake_clean_cache' from command line to 'False'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'cmake_clean_first' from command line to 'False'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'cmake_force_configure' from command line to 'False'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'ament_cmake_args' from command line to 'None'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'catkin_cmake_args' from command line to 'None'
+[0.305s] Level 5:colcon.colcon_core.verb:set package 'rover_control_test' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.305s] DEBUG:colcon.colcon_core.verb:Building package 'rover_control_test' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/hasi/pyserial_test/src/build/rover_control_test', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/hasi/pyserial_test/src/install/rover_control_test', 'merge_install': False, 'path': '/home/hasi/pyserial_test/src/rover_control_test', 'symlink_install': False, 'test_result_base': None}
+[0.305s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.306s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.306s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/hasi/pyserial_test/src/pysender' with build type 'ament_python'
+[0.306s] Level 1:colcon.colcon_core.shell:create_environment_hook('pysender', 'ament_prefix_path')
+[0.307s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.308s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/pysender/share/pysender/hook/ament_prefix_path.ps1'
+[0.308s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/hasi/pyserial_test/src/install/pysender/share/pysender/hook/ament_prefix_path.dsv'
+[0.308s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/pysender/share/pysender/hook/ament_prefix_path.sh'
+[0.309s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.309s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.311s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/hasi/pyserial_test/src/rover_control_test' with build type 'ament_python'
+[0.311s] Level 1:colcon.colcon_core.shell:create_environment_hook('rover_control_test', 'ament_prefix_path')
+[0.312s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/hook/ament_prefix_path.ps1'
+[0.312s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/hook/ament_prefix_path.dsv'
+[0.312s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/hook/ament_prefix_path.sh'
+[0.313s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.313s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.508s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/hasi/pyserial_test/src/pysender'
+[0.508s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.508s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.689s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/hasi/pyserial_test/src/rover_control_test'
+[0.689s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.689s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.962s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/hasi/pyserial_test/src/pysender': PYTHONPATH=/home/hasi/pyserial_test/src/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pysender build --build-base /home/hasi/pyserial_test/src/build/pysender/build install --record /home/hasi/pyserial_test/src/build/pysender/install.log --single-version-externally-managed install_data
+[0.964s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/hasi/pyserial_test/src/rover_control_test': PYTHONPATH=/home/hasi/pyserial_test/src/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hasi/pyserial_test/src/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/rover_control_test build --build-base /home/hasi/pyserial_test/src/build/rover_control_test/build install --record /home/hasi/pyserial_test/src/build/rover_control_test/install.log --single-version-externally-managed install_data
+[1.174s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/hasi/pyserial_test/src/pysender' returned '0': PYTHONPATH=/home/hasi/pyserial_test/src/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pysender build --build-base /home/hasi/pyserial_test/src/build/pysender/build install --record /home/hasi/pyserial_test/src/build/pysender/install.log --single-version-externally-managed install_data
+[1.176s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender' for CMake module files
+[1.176s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender' for CMake config files
+[1.176s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender/lib'
+[1.176s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender/bin'
+[1.176s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender/lib/pkgconfig/pysender.pc'
+[1.177s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages'
+[1.177s] Level 1:colcon.colcon_core.shell:create_environment_hook('pysender', 'pythonpath')
+[1.177s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/pysender/share/pysender/hook/pythonpath.ps1'
+[1.177s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/hasi/pyserial_test/src/install/pysender/share/pysender/hook/pythonpath.dsv'
+[1.177s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/pysender/share/pysender/hook/pythonpath.sh'
+[1.178s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/pysender/bin'
+[1.178s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(pysender)
+[1.178s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/pysender/share/pysender/package.ps1'
+[1.178s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/hasi/pyserial_test/src/install/pysender/share/pysender/package.dsv'
+[1.179s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/pysender/share/pysender/package.sh'
+[1.179s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/pysender/share/pysender/package.bash'
+[1.179s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/pysender/share/pysender/package.zsh'
+[1.180s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/hasi/pyserial_test/src/install/pysender/share/colcon-core/packages/pysender)
+[1.183s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test' for CMake module files
+[1.184s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/hasi/pyserial_test/src/rover_control_test' returned '0': PYTHONPATH=/home/hasi/pyserial_test/src/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hasi/pyserial_test/src/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/rover_control_test build --build-base /home/hasi/pyserial_test/src/build/rover_control_test/build install --record /home/hasi/pyserial_test/src/build/rover_control_test/install.log --single-version-externally-managed install_data
+[1.184s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test' for CMake config files
+[1.184s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test/lib'
+[1.184s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test/bin'
+[1.184s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test/lib/pkgconfig/rover_control_test.pc'
+[1.184s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test/lib/python3.10/site-packages'
+[1.184s] Level 1:colcon.colcon_core.shell:create_environment_hook('rover_control_test', 'pythonpath')
+[1.185s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/hook/pythonpath.ps1'
+[1.185s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/hook/pythonpath.dsv'
+[1.185s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/hook/pythonpath.sh'
+[1.185s] Level 1:colcon.colcon_core.environment:checking '/home/hasi/pyserial_test/src/install/rover_control_test/bin'
+[1.185s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(rover_control_test)
+[1.186s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/package.ps1'
+[1.186s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/package.dsv'
+[1.186s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/package.sh'
+[1.186s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/package.bash'
+[1.186s] INFO:colcon.colcon_core.shell:Creating package script '/home/hasi/pyserial_test/src/install/rover_control_test/share/rover_control_test/package.zsh'
+[1.187s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/hasi/pyserial_test/src/install/rover_control_test/share/colcon-core/packages/rover_control_test)
+[1.187s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.187s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.187s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.187s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.191s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.191s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.191s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.200s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.200s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hasi/pyserial_test/src/install/local_setup.ps1'
+[1.201s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/hasi/pyserial_test/src/install/_local_setup_util_ps1.py'
+[1.201s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hasi/pyserial_test/src/install/setup.ps1'
+[1.202s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hasi/pyserial_test/src/install/local_setup.sh'
+[1.202s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/hasi/pyserial_test/src/install/_local_setup_util_sh.py'
+[1.203s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hasi/pyserial_test/src/install/setup.sh'
+[1.203s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hasi/pyserial_test/src/install/local_setup.bash'
+[1.204s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hasi/pyserial_test/src/install/setup.bash'
+[1.205s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hasi/pyserial_test/src/install/local_setup.zsh'
+[1.205s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hasi/pyserial_test/src/install/setup.zsh'

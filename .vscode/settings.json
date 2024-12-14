@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hasi/ros2_ws/install/test_nodes/lib/python3.10/site-packages",
+        "/home/hasi/ros2_ws/install/mt_rover_wheel/lib/python3.10/site-packages",
+        "/home/hasi/ros2_ws/build/mt_rover",
+        "/home/hasi/ros2_ws/install/mt_rover/lib/python3.10/site-packages",
+        "/home/hasi/ros2_ws/install/mt_autonomy/lib/python3.10/site-packages",
+        "/home/hasi/duronto_ws/install/f1tenth_controller/lib/python3.10/site-packages",
+        "/home/hasi/duronto_ws/install/duronto_run/lib/python3.10/site-packages",
+        "/home/duronto/f1_ws/build/f1tenth_controller",
+        "/home/hasi/f1_10_noor_ws/install/f1tenth_controller/lib/python3.10/site-packages",
+        "/home/hasi/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages",
+        "/home/hasi/sim_ws/install/f1_tenth_jesan/lib/python3.10/site-packages",
+        "/home/hasi/sbg_ws/install/auto_mt10/lib/python3.10/site-packages",
+        "/home/hasi/sbg_ws/install/sbg_driver/local/lib/python3.10/dist-packages",
+        "/home/hasi/autodrive_devkit/install/autodrive_f1tenth/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hasi/ros2_ws/install/test_nodes/lib/python3.10/site-packages",
+        "/home/hasi/ros2_ws/install/mt_rover_wheel/lib/python3.10/site-packages",
+        "/home/hasi/ros2_ws/build/mt_rover",
+        "/home/hasi/ros2_ws/install/mt_rover/lib/python3.10/site-packages",
+        "/home/hasi/ros2_ws/install/mt_autonomy/lib/python3.10/site-packages",
+        "/home/hasi/duronto_ws/install/f1tenth_controller/lib/python3.10/site-packages",
+        "/home/hasi/duronto_ws/install/duronto_run/lib/python3.10/site-packages",
+        "/home/duronto/f1_ws/build/f1tenth_controller",
+        "/home/hasi/f1_10_noor_ws/install/f1tenth_controller/lib/python3.10/site-packages",
+        "/home/hasi/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages",
+        "/home/hasi/sim_ws/install/f1_tenth_jesan/lib/python3.10/site-packages",
+        "/home/hasi/sbg_ws/install/auto_mt10/lib/python3.10/site-packages",
+        "/home/hasi/sbg_ws/install/sbg_driver/local/lib/python3.10/dist-packages",
+        "/home/hasi/autodrive_devkit/install/autodrive_f1tenth/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

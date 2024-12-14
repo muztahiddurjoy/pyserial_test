@@ -1,0 +1,37 @@
+[0.655s] Invoking command in '/home/hasi/pyserial_test/src/pysender': PYTHONPATH=/home/hasi/pyserial_test/src/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pysender build --build-base /home/hasi/pyserial_test/src/build/pysender/build install --record /home/hasi/pyserial_test/src/build/pysender/install.log --single-version-externally-managed install_data
+[0.831s] running egg_info
+[0.831s] creating ../build/pysender/pysender.egg-info
+[0.831s] writing ../build/pysender/pysender.egg-info/PKG-INFO
+[0.832s] writing dependency_links to ../build/pysender/pysender.egg-info/dependency_links.txt
+[0.832s] writing entry points to ../build/pysender/pysender.egg-info/entry_points.txt
+[0.832s] writing requirements to ../build/pysender/pysender.egg-info/requires.txt
+[0.832s] writing top-level names to ../build/pysender/pysender.egg-info/top_level.txt
+[0.832s] writing manifest file '../build/pysender/pysender.egg-info/SOURCES.txt'
+[0.833s] reading manifest file '../build/pysender/pysender.egg-info/SOURCES.txt'
+[0.833s] writing manifest file '../build/pysender/pysender.egg-info/SOURCES.txt'
+[0.833s] running build
+[0.833s] running build_py
+[0.833s] creating /home/hasi/pyserial_test/src/build/pysender/build
+[0.834s] creating /home/hasi/pyserial_test/src/build/pysender/build/lib
+[0.834s] creating /home/hasi/pyserial_test/src/build/pysender/build/lib/pysender
+[0.834s] copying pysender/__init__.py -> /home/hasi/pyserial_test/src/build/pysender/build/lib/pysender
+[0.834s] copying pysender/pysender.py -> /home/hasi/pyserial_test/src/build/pysender/build/lib/pysender
+[0.834s] running install
+[0.834s] running install_lib
+[0.834s] creating /home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages/pysender
+[0.834s] copying /home/hasi/pyserial_test/src/build/pysender/build/lib/pysender/__init__.py -> /home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages/pysender
+[0.834s] copying /home/hasi/pyserial_test/src/build/pysender/build/lib/pysender/pysender.py -> /home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages/pysender
+[0.834s] byte-compiling /home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages/pysender/__init__.py to __init__.cpython-310.pyc
+[0.834s] byte-compiling /home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages/pysender/pysender.py to pysender.cpython-310.pyc
+[0.835s] running install_data
+[0.835s] creating /home/hasi/pyserial_test/src/install/pysender/share/ament_index
+[0.835s] creating /home/hasi/pyserial_test/src/install/pysender/share/ament_index/resource_index
+[0.835s] creating /home/hasi/pyserial_test/src/install/pysender/share/ament_index/resource_index/packages
+[0.835s] copying resource/pysender -> /home/hasi/pyserial_test/src/install/pysender/share/ament_index/resource_index/packages
+[0.835s] copying package.xml -> /home/hasi/pyserial_test/src/install/pysender/share/pysender
+[0.835s] running install_egg_info
+[0.836s] Copying ../build/pysender/pysender.egg-info to /home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info
+[0.837s] running install_scripts
+[0.850s] Installing pysender script to /home/hasi/pyserial_test/src/install/pysender/lib/pysender
+[0.851s] writing list of installed files to '/home/hasi/pyserial_test/src/build/pysender/install.log'
+[0.868s] Invoked command in '/home/hasi/pyserial_test/src/pysender' returned '0': PYTHONPATH=/home/hasi/pyserial_test/src/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hasi/pyserial_test/src/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pysender build --build-base /home/hasi/pyserial_test/src/build/pysender/build install --record /home/hasi/pyserial_test/src/build/pysender/install.log --single-version-externally-managed install_data

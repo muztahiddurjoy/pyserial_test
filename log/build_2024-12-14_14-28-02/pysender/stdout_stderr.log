@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing pysender.egg-info/PKG-INFO
+writing dependency_links to pysender.egg-info/dependency_links.txt
+writing entry points to pysender.egg-info/entry_points.txt
+writing requirements to pysender.egg-info/requires.txt
+writing top-level names to pysender.egg-info/top_level.txt
+reading manifest file 'pysender.egg-info/SOURCES.txt'
+writing manifest file 'pysender.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hasi/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender.egg-link (link to .)
+Installing pysender script to /home/hasi/pyserial_test/install/pysender/lib/pysender
+
+Installed /home/hasi/pyserial_test/build/pysender
+running symlink_data
