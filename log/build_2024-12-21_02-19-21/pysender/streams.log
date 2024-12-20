@@ -1,0 +1,37 @@
+[1.093s] Invoking command in '/media/muztahid/New Volume/Mongoltori/pyserial_test/src/pysender': PYTHONPATH=/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pysender build --build-base /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build install --record /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/install.log --single-version-externally-managed install_data
+[1.464s] running egg_info
+[1.466s] creating ../../build/pysender/pysender.egg-info
+[1.466s] writing ../../build/pysender/pysender.egg-info/PKG-INFO
+[1.467s] writing dependency_links to ../../build/pysender/pysender.egg-info/dependency_links.txt
+[1.468s] writing entry points to ../../build/pysender/pysender.egg-info/entry_points.txt
+[1.469s] writing requirements to ../../build/pysender/pysender.egg-info/requires.txt
+[1.469s] writing top-level names to ../../build/pysender/pysender.egg-info/top_level.txt
+[1.470s] writing manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+[1.477s] reading manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+[1.482s] writing manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+[1.483s] running build
+[1.483s] running build_py
+[1.484s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build
+[1.484s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build/lib
+[1.485s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build/lib/pysender
+[1.485s] copying pysender/pysender.py -> /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build/lib/pysender
+[1.487s] copying pysender/__init__.py -> /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build/lib/pysender
+[1.488s] running install
+[1.489s] running install_lib
+[1.491s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender
+[1.492s] copying /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build/lib/pysender/pysender.py -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender
+[1.494s] copying /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build/lib/pysender/__init__.py -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender
+[1.498s] byte-compiling /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender/pysender.py to pysender.cpython-310.pyc
+[1.503s] byte-compiling /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender/__init__.py to __init__.cpython-310.pyc
+[1.505s] running install_data
+[1.506s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/ament_index
+[1.507s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/ament_index/resource_index
+[1.507s] creating /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/ament_index/resource_index/packages
+[1.507s] copying resource/pysender -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/ament_index/resource_index/packages
+[1.509s] copying package.xml -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/pysender
+[1.510s] running install_egg_info
+[1.514s] Copying ../../build/pysender/pysender.egg-info to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info
+[1.529s] running install_scripts
+[1.567s] Installing pysender script to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/pysender
+[1.569s] writing list of installed files to '/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/install.log'
+[1.612s] Invoked command in '/media/muztahid/New Volume/Mongoltori/pyserial_test/src/pysender' returned '0': PYTHONPATH=/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pysender build --build-base /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build install --record /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/install.log --single-version-externally-managed install_data

@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/pysender/pysender.egg-info/PKG-INFO
+writing dependency_links to ../../build/pysender/pysender.egg-info/dependency_links.txt
+writing entry points to ../../build/pysender/pysender.egg-info/entry_points.txt
+writing requirements to ../../build/pysender/pysender.egg-info/requires.txt
+writing top-level names to ../../build/pysender/pysender.egg-info/top_level.txt
+reading manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+writing manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pysender/pysender.egg-info to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pysender script to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/pysender
+writing list of installed files to '/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/install.log'
