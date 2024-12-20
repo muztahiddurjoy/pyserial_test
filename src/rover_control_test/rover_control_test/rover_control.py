@@ -35,7 +35,7 @@ class RoverController(Node):
         try:
             throttle = msg.linear.x
             steering = msg.angular.z
-            command = f"L{throttle:.2f} A{steering:.2f}\n"
+            command = f"L{throttle:.2f} A{steering:.2f} B{15} R{16.5} M{7.2}\n"
             self.serial_connection.write(command.encode())
             # self.get_logger().info(f"L{throttle} A{steering}")
         except Exception as e:
