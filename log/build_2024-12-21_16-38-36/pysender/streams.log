@@ -1,0 +1,19 @@
+[1.589s] Invoking command in '/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender': PYTHONPATH=/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build --no-deps symlink_data --force
+[2.131s] running develop
+[2.486s] running egg_info
+[2.487s] writing pysender.egg-info/PKG-INFO
+[2.488s] writing dependency_links to pysender.egg-info/dependency_links.txt
+[2.489s] writing entry points to pysender.egg-info/entry_points.txt
+[2.490s] writing requirements to pysender.egg-info/requires.txt
+[2.490s] writing top-level names to pysender.egg-info/top_level.txt
+[2.497s] reading manifest file 'pysender.egg-info/SOURCES.txt'
+[2.504s] writing manifest file 'pysender.egg-info/SOURCES.txt'
+[2.507s] running build_ext
+[2.508s] Creating /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender.egg-link (link to .)
+[2.513s] Installing pysender script to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/pysender
+[2.516s] 
+[2.516s] Installed /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender
+[2.516s] running symlink_data
+[2.519s] symbolically linking /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/resource/pysender -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/ament_index/resource_index/packages
+[2.523s] symbolically linking /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/package.xml -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/share/pysender
+[2.580s] Invoked command in '/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender' returned '0': PYTHONPATH=/media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/muztahid/New Volume/Mongoltori/pyserial_test/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/muztahid/New Volume/Mongoltori/pyserial_test/build/pysender/build --no-deps symlink_data --force

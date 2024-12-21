@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'rover_control = rover_control_test.rover_control:main',
+            'keyboard_control = rover_control_test.rover_keyboard_control:main'
         ],
     },
 )

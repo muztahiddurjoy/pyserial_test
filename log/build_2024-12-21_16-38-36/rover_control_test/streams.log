@@ -1,0 +1,20 @@
+[1.583s] Invoking command in '/media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test': PYTHONPATH=/media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test/build --no-deps symlink_data --force
+[2.125s] running develop
+[2.484s] running egg_info
+[2.485s] writing rover_control_test.egg-info/PKG-INFO
+[2.485s] writing dependency_links to rover_control_test.egg-info/dependency_links.txt
+[2.487s] writing entry points to rover_control_test.egg-info/entry_points.txt
+[2.487s] writing requirements to rover_control_test.egg-info/requires.txt
+[2.488s] writing top-level names to rover_control_test.egg-info/top_level.txt
+[2.500s] reading manifest file 'rover_control_test.egg-info/SOURCES.txt'
+[2.516s] writing manifest file 'rover_control_test.egg-info/SOURCES.txt'
+[2.519s] running build_ext
+[2.520s] Creating /media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover-control-test.egg-link (link to .)
+[2.524s] Installing keyboard_control script to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.529s] Installing rover_control script to /media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.531s] 
+[2.532s] Installed /media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test
+[2.533s] running symlink_data
+[2.534s] symbolically linking /media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test/resource/rover_control_test -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/share/ament_index/resource_index/packages
+[2.536s] symbolically linking /media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test/package.xml -> /media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/share/rover_control_test
+[2.604s] Invoked command in '/media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test' returned '0': PYTHONPATH=/media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/muztahid/New Volume/Mongoltori/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/muztahid/New Volume/Mongoltori/pyserial_test/build/rover_control_test/build --no-deps symlink_data --force
