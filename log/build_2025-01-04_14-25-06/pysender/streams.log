@@ -1,0 +1,21 @@
+[1.554s] Invoking command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/src/pysender': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pysender build --build-base /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/build install --record /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/install.log --single-version-externally-managed install_data
+[2.042s] running egg_info
+[2.044s] writing ../../build/pysender/pysender.egg-info/PKG-INFO
+[2.046s] writing dependency_links to ../../build/pysender/pysender.egg-info/dependency_links.txt
+[2.046s] writing entry points to ../../build/pysender/pysender.egg-info/entry_points.txt
+[2.046s] writing requirements to ../../build/pysender/pysender.egg-info/requires.txt
+[2.046s] writing top-level names to ../../build/pysender/pysender.egg-info/top_level.txt
+[2.049s] reading manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+[2.050s] writing manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+[2.051s] running build
+[2.051s] running build_py
+[2.052s] running install
+[2.052s] running install_lib
+[2.055s] running install_data
+[2.056s] running install_egg_info
+[2.058s] removing '/home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info' (and everything under it)
+[2.061s] Copying ../../build/pysender/pysender.egg-info to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info
+[2.061s] running install_scripts
+[2.102s] Installing pysender script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/pysender
+[2.104s] writing list of installed files to '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/install.log'
+[2.146s] Invoked command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/src/pysender' returned '0': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pysender build --build-base /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/build install --record /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/install.log --single-version-externally-managed install_data
