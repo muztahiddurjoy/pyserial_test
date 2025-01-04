@@ -1,0 +1,20 @@
+[1.501s] Invoking command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build --no-deps symlink_data --force
+[2.012s] running develop
+[2.275s] running egg_info
+[2.275s] writing rover_control_test.egg-info/PKG-INFO
+[2.275s] writing dependency_links to rover_control_test.egg-info/dependency_links.txt
+[2.276s] writing entry points to rover_control_test.egg-info/entry_points.txt
+[2.276s] writing requirements to rover_control_test.egg-info/requires.txt
+[2.276s] writing top-level names to rover_control_test.egg-info/top_level.txt
+[2.277s] reading manifest file 'rover_control_test.egg-info/SOURCES.txt'
+[2.283s] writing manifest file 'rover_control_test.egg-info/SOURCES.txt'
+[2.283s] running build_ext
+[2.283s] Creating /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover-control-test.egg-link (link to .)
+[2.283s] Installing keyboard_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.283s] Installing rover_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.284s] 
+[2.284s] Installed /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test
+[2.284s] running symlink_data
+[2.284s] symbolically linking /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/resource/rover_control_test -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/share/ament_index/resource_index/packages
+[2.286s] symbolically linking /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/package.xml -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/share/rover_control_test
+[2.344s] Invoked command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test' returned '0': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build --no-deps symlink_data --force

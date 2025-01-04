@@ -1,0 +1,27 @@
+running develop
+Removing /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender.egg-link (link to .)
+running egg_info
+writing ../../build/pysender/pysender.egg-info/PKG-INFO
+writing dependency_links to ../../build/pysender/pysender.egg-info/dependency_links.txt
+writing entry points to ../../build/pysender/pysender.egg-info/entry_points.txt
+writing requirements to ../../build/pysender/pysender.egg-info/requires.txt
+writing top-level names to ../../build/pysender/pysender.egg-info/top_level.txt
+reading manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+writing manifest file '../../build/pysender/pysender.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender
+copying /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/build/lib/pysender/pysender.py -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender
+copying /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/build/lib/pysender/__init__.py -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender
+byte-compiling /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender/pysender.py to pysender.cpython-310.pyc
+byte-compiling /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/pysender -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/share/ament_index/resource_index/packages
+copying package.xml -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/share/pysender
+running install_egg_info
+Copying ../../build/pysender/pysender.egg-info to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pysender script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/pysender
+writing list of installed files to '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/install.log'

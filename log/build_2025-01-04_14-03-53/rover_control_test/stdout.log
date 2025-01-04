@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing rover_control_test.egg-info/PKG-INFO
+writing dependency_links to rover_control_test.egg-info/dependency_links.txt
+writing entry points to rover_control_test.egg-info/entry_points.txt
+writing requirements to rover_control_test.egg-info/requires.txt
+writing top-level names to rover_control_test.egg-info/top_level.txt
+reading manifest file 'rover_control_test.egg-info/SOURCES.txt'
+writing manifest file 'rover_control_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover-control-test.egg-link (link to .)
+Installing keyboard_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+Installing rover_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+
+Installed /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test
+running symlink_data
+symbolically linking /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/resource/rover_control_test -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/share/ament_index/resource_index/packages
+symbolically linking /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/package.xml -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/share/rover_control_test

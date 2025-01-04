@@ -1,0 +1,18 @@
+[1.520s] Invoking command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build --no-deps symlink_data
+[1.965s] running develop
+[2.345s] running egg_info
+[2.346s] writing rover_control_test.egg-info/PKG-INFO
+[2.348s] writing dependency_links to rover_control_test.egg-info/dependency_links.txt
+[2.348s] writing entry points to rover_control_test.egg-info/entry_points.txt
+[2.348s] writing requirements to rover_control_test.egg-info/requires.txt
+[2.348s] writing top-level names to rover_control_test.egg-info/top_level.txt
+[2.350s] reading manifest file 'rover_control_test.egg-info/SOURCES.txt'
+[2.353s] writing manifest file 'rover_control_test.egg-info/SOURCES.txt'
+[2.355s] running build_ext
+[2.356s] Creating /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover-control-test.egg-link (link to .)
+[2.357s] Installing keyboard_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.358s] Installing rover_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.358s] 
+[2.358s] Installed /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test
+[2.360s] running symlink_data
+[2.414s] Invoked command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test' returned '0': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build --no-deps symlink_data

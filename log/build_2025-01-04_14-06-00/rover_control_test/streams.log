@@ -1,0 +1,35 @@
+[1.463s] Invoking command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build
+[1.970s] running develop
+[2.281s] Removing /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover-control-test.egg-link (link to .)
+[2.341s] Invoked command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test' returned '0': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build
+[2.344s] Invoking command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/src/rover_control_test': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_control_test build --build-base /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build install --record /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/install.log --single-version-externally-managed install_data --force
+[2.769s] running egg_info
+[2.772s] writing ../../build/rover_control_test/rover_control_test.egg-info/PKG-INFO
+[2.772s] writing dependency_links to ../../build/rover_control_test/rover_control_test.egg-info/dependency_links.txt
+[2.772s] writing entry points to ../../build/rover_control_test/rover_control_test.egg-info/entry_points.txt
+[2.772s] writing requirements to ../../build/rover_control_test/rover_control_test.egg-info/requires.txt
+[2.772s] writing top-level names to ../../build/rover_control_test/rover_control_test.egg-info/top_level.txt
+[2.775s] reading manifest file '../../build/rover_control_test/rover_control_test.egg-info/SOURCES.txt'
+[2.776s] writing manifest file '../../build/rover_control_test/rover_control_test.egg-info/SOURCES.txt'
+[2.777s] running build
+[2.777s] running build_py
+[2.777s] copying rover_control_test/rover_control.py -> /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build/lib/rover_control_test
+[2.777s] running install
+[2.778s] running install_lib
+[2.780s] creating /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test
+[2.780s] copying /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build/lib/rover_control_test/rover_keyboard_control.py -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test
+[2.780s] copying /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build/lib/rover_control_test/rover_control.py -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test
+[2.780s] copying /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build/lib/rover_control_test/__init__.py -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test
+[2.781s] byte-compiling /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test/rover_keyboard_control.py to rover_keyboard_control.cpython-310.pyc
+[2.783s] byte-compiling /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test/rover_control.py to rover_control.cpython-310.pyc
+[2.784s] byte-compiling /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test/__init__.py to __init__.cpython-310.pyc
+[2.784s] running install_data
+[2.785s] copying resource/rover_control_test -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/share/ament_index/resource_index/packages
+[2.786s] copying package.xml -> /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/share/rover_control_test
+[2.786s] running install_egg_info
+[2.789s] Copying ../../build/rover_control_test/rover_control_test.egg-info to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages/rover_control_test-0.0.0-py3.10.egg-info
+[2.789s] running install_scripts
+[2.858s] Installing keyboard_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.861s] Installing rover_control script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/rover_control_test
+[2.868s] writing list of installed files to '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/install.log'
+[2.920s] Invoked command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/src/rover_control_test' returned '0': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/rover_control_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_control_test build --build-base /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/build install --record /home/muztahid/ros_codes/mt_codes/pyserial_test/build/rover_control_test/install.log --single-version-externally-managed install_data --force

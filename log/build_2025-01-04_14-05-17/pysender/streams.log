@@ -1,0 +1,17 @@
+[1.523s] Invoking command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/build --no-deps symlink_data
+[1.973s] running develop
+[2.336s] running egg_info
+[2.338s] writing pysender.egg-info/PKG-INFO
+[2.338s] writing dependency_links to pysender.egg-info/dependency_links.txt
+[2.338s] writing entry points to pysender.egg-info/entry_points.txt
+[2.338s] writing requirements to pysender.egg-info/requires.txt
+[2.338s] writing top-level names to pysender.egg-info/top_level.txt
+[2.342s] reading manifest file 'pysender.egg-info/SOURCES.txt'
+[2.342s] writing manifest file 'pysender.egg-info/SOURCES.txt'
+[2.346s] running build_ext
+[2.347s] Creating /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages/pysender.egg-link (link to .)
+[2.348s] Installing pysender script to /home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/pysender
+[2.349s] 
+[2.350s] Installed /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender
+[2.350s] running symlink_data
+[2.397s] Invoked command in '/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender' returned '0': PYTHONPATH=/home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muztahid/ros_codes/mt_codes/pyserial_test/install/pysender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muztahid/ros_codes/mt_codes/pyserial_test/build/pysender/build --no-deps symlink_data
